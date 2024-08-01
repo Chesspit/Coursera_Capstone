@@ -10,3 +10,7 @@ Used for IBM DataScience Course IX - Capstone Project
 "Again, Toronto will serve as the city of interest. A neighborhood in Zurich, Switzerland, will be the point of reference. Obviously both choices (origin & destination) are exchangeable.
 
 "**Problem:** *Find feasible neigborhoods in Toronto based on your preferences?*"
+
+---
+
+[CAPSTONE]"capstone.png"
