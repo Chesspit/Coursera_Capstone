@@ -13,4 +13,4 @@ Used for IBM DataScience Course IX - Capstone Project
 
 ---
 
-[CAPSTONE]"capstone.png"
+![CAPSTONE](capstone.png)
